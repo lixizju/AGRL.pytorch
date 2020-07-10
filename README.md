@@ -1,4 +1,4 @@
-This is the pytorch implementation for ``Adaptive Graph Representation Learning for Video Person Re-identification''.
+This is the PyTorch implementation for *Adaptive Graph Representation Learning for Video Person Re-identification*.
 
 ## Citation
 Please kindly cite this project in your paper if it is helpful😊:
